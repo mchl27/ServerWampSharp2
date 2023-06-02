@@ -46,3 +46,12 @@ Las contribuciones son bienvenidas. Si encuentras algún problema o tienes algun
 ## Licencia
 
 Este proyecto está licenciado bajo [MIT License](LICENSE).
+
+## Contacto
+Si tienes alguna pregunta, sugerencia o simplemente quieres ponerte en contacto conmigo, no dudes en hacerlo. Estoy abierto a colaboraciones, ideas y cualquier tipo de retroalimentación constructiva.
+
+Puedes contactarme de las siguientes maneras:
+
+- Correo electrónico: [michaellopez201383@gmail.com](michaellopez201383@gmail.com)
+
+No dudes en contactarme por este medio. Intentaré responderte lo antes posible.
