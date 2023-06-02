@@ -28,6 +28,9 @@ El proyecto se divide en dos partes principales: el cliente y el servidor.
 - `ClienteChat`: Contiene la lógica y la interfaz de usuario para el cliente de chat.
 - `ServerChat`: Contiene la lógica del servidor de chat.
 
+## Documentación Proyecto
+Encontrara la documentación en el siguite link en [Drive](https://drive.google.com/drive/folders/1f5hfXCkpAZQ_d9y0P7ee6rm-bglGHfMz?usp=sharing)
+
 ## Bibliotecas utilizadas
 
 Este proyecto utiliza la biblioteca WampSharp para la comunicación en tiempo real. WampSharp es una implementación de WAMP (Web Application Messaging Protocol) para .NET. Proporciona una forma sencilla de conectar clientes y servidores y establecer una comunicación bidireccional eficiente.
